@@ -1,0 +1,42 @@
+body{
+    padding: 100px;
+}
+.bank-title{
+    text-align: center;
+}
+#submit-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 40px;
+}
+#transaction-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 20px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 40px;
+}
+.withdraw-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 40px;
+}
